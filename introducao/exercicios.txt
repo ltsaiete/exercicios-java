@@ -1,0 +1,19 @@
+1. Faça um programa em java que:
+a) Leia um número inteiro
+b) Leia um segundo número inteiro
+c) Efectue a multiplicação dos dois valores
+d) Efectue a raiz quadrada dos dois valores
+e) Apresente o valor calculado
+2. Elabore um programa em Java que calcule a media de 3 testes introduzidos por um
+estudante.
+3. Elabore um programa que calcule a area e o perímetro de um trapézio, o resultado não
+deve conter mais do que três casas decimais.
+4. O custo ao consumidor de um carro novo é a soma do custo de fábrica com a
+percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que
+a percentagem do distribuidor seja de 23% e os impostos de 40%, elabore um programa
+em Java que calcule o custo total do carro.
+5. Calcule a média e somatório de 3 números aleatórios pertencentes ao intervalo de 0-29.
+6. Receba três valores de salário sobre três funcionários. Calcule a média dos salários
+recebidos e o total gasto pela empresa para pagar os salários anualmente. A moeda é o
+Metical.
+7. Elabore um programa em Java que imprima a data atual.
